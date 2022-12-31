@@ -1,5 +1,7 @@
 .fondo{
     background-image: url('../img/Dc universe 1.jpg');
-    width: 50%;
-    height: 50vh;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
 }
